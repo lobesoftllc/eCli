@@ -1,5 +1,5 @@
 # eCli
-CLI support for embedded project
+CLI support for tiny embedded project
 
 ## Used on
 - tiny mcu like **arm m0** and more advanced system like **stm32f4**
